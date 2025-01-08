@@ -1,0 +1,23 @@
+table, tr, th, td
+		{
+			border: 2px solid darkblue;
+			border-collapse: collapse;
+		}
+		th, td
+		{
+			padding: 50px;
+		}
+		th
+		{
+			background-color: skyblue;
+			color: orangered;
+			text-align: center;
+			font-size: 35px; 
+		}
+		td
+		{
+			text-align: center;
+			background-color: lightpink;
+			font-size: 25px;
+
+		}
